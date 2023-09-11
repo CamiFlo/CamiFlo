@@ -1,6 +1,6 @@
 ## Hola!  Camila por aquí 🙃
 
-### Soy  **Front-End Developer** de oficio :woman_technologist: , publicista de profesión :bulb: y padawan de alma :woman_student:
+### Soy  **Front-End Developer** de oficio 👩🏿‍💻 , publicista de profesión :bulb: y padawan de alma :woman_student:
 
 Me gusta ver como se entrelaza mi experiencia en el mundo de la publicidad y el del desarrollo web: recibir un proyecto, desmenuzarlo en tareas, procesos de revisión, el trabajo colaborativo, tener 2 clientes: el final y el Product owner, los problemas que se enfrentan y la búsqueda por encontrar la mejor combinación entre la creatividad y la lógica. 
 
