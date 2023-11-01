@@ -6,7 +6,7 @@ Me gusta ver como se entrelaza mi experiencia en el mundo de la publicidad y el 
 
 
 - :construction_worker_woman: He estudiado y trabajado:<br><br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,firebase,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,firebase,figma)](https://skillicons.dev)
 
 - 🌱 En este momento aprendiendo de librerias y Frameworks 
  
